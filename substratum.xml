@@ -2,7 +2,7 @@
 <manifest>
   <!-- Track ThemeInterfacer -->
   <project path="packages/services/ThemeInterfacer"
-           name="substratum/interfacer"
+           name="hinki1/lineage..packages_services_ThemeInterfacer"
            remote="github"
            revision="n-rootless" />
 </manifest>

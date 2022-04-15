@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- FDroid -->
-  <project name="Professor-Berni/android_vendor_fdroid"
+  <project name="hinki1/lineage..vendor_fdroid"
            path="vendor/fdroid"
            remote="github"
            revision="master" />
   <!-- Extra vendor blob's -->
-  <project name="Professor-Berni/proprietary_vendor_sony_extras"
+  <project name="hinki1/lineage..vendor_sony_kitakami-common-extras"
            path="vendor/sony/kitakami-common-extras"
            remote="github"
            revision="cm-14.1" />
